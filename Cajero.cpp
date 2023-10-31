@@ -22,7 +22,8 @@ saldodisponible = saldodisponible-valor;
                 cout<<"Contraseña c3 invalida"<<endl;
                         }                             
                 }else{
-cout<<"Contraseña c2 invalida"<<endl;                                                               }                                             }else{
+cout<<"Contraseña c2 invalida"<<endl;                                                               }                                             
+                }else{
 cout<<"Contraseña c1 invalida"<<endl; }
                                                       
 return (0);
